@@ -8,3 +8,5 @@ Guide to exporting data: https://support.apple.com/en-gb/guide/iphone/iph5ede58c
 
 - Insert your export.xml file into a folder ../exports
 - Graphs are saved to ../graphs
+- Change the date of the snapshot in the main watchData.py file
+- Toggle the oneDay boolean to show all-time data
