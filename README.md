@@ -1,6 +1,6 @@
 # apple-watch
 
-Use this python script to format your exported apple-watch data into plotted graphs.
+Python script to format your exported apple-watch data into plotted graphs using matplotlib.
 
 ![exported heartrate data](https://media.discordapp.net/attachments/913872498829975573/1115978324297142342/image.png?width=908&height=337)
 
